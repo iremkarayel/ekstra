@@ -1,0 +1,10 @@
+Hafta Ekstra:
+
+JavaScript kullanılarak JSON formatında saklanan başkanlar listesi parse edildi ve ekranda gösterilmek istendi.
+
+- JSON.parse() ile metin verisi nesneye dönüştürüldü.
+- Döngü ile başkan isimleri ve soyadları DOM'a yazdırıldı.
+- Kodda "length" kelimesi "lenght" olarak yazıldığı için döngü çalışmadı.
+- Bu yazım hatası düzeltilmeli.
+
+Ek olarak JSON veri yapısını açıklayan bir görsel eklendi.
