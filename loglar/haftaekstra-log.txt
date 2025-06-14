@@ -1,0 +1,9 @@
+Hafta Ekstra:
+
+JSON veri parse edildi ve DOM'a yazdırılmaya çalışıldı.
+
+Kodda 'length' yazım hatası var, düzeltilmeli.
+
+JSON yapısı için görsel eklendi.
+
+
